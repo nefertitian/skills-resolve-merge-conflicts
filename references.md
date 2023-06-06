@@ -1,5 +1,6 @@
-# References
 
-Test Edit to create a conflict intentionally
+junk
+njunk
 
-* octocat 1 😈
+junk
+
